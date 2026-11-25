@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-12 -8 966 528" fill="#202020" role="img" aria-label="Observer">
+  <defs>
+    <linearGradient id="observer-logo-face" x1="18%" y1="0%" x2="78%" y2="100%">
+      <stop offset="0%" stop-color="#202020" stop-opacity="1" />
+      <stop offset="100%" stop-color="#202020" stop-opacity="0.78" />
+    </linearGradient>
+    <filter id="observer-logo-depth" x="-20%" y="-20%" width="140%" height="160%" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="7" stdDeviation="6" flood-color="#202020" flood-opacity="0.2" />
+    </filter>
+  </defs>
+  <g transform="translate(6 8)" opacity="0.16">
+    <path d="M471 20 L922 481 L471 246 L20 481 Z" />
+    <path d="M236 396 L471 277 L706 396 L641 467 L538 406 L471 467 L404 406 L301 467 Z" />
+  </g>
+  <g filter="url(#observer-logo-depth)" fill="url(#observer-logo-face)">
+    <path d="M471 20 L922 481 L471 246 L20 481 Z" />
+    <path d="M236 396 L471 277 L706 396 L641 467 L538 406 L471 467 L404 406 L301 467 Z" />
+  </g>
+</svg>
