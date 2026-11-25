@@ -31,7 +31,7 @@ Hidden from screen share. No bot joins. Mac and Windows.</p>
 - **[Auto-answer](https://getobserver.app/help/auto-answer).** Observer replies as soon as someone finishes a question.
 - **[Undetectable](https://getobserver.app/undetectability).** Hidden from screen shares and recordings, and it doesn't take focus from your window.
 - **[Notes after every call](https://getobserver.app/help/meeting-notes-transcripts-conversations).** Notes from your template, the transcript, a follow-up email draft, and Ask for questions about the meeting.
-- **[Playbooks](https://getobserver.app/help/playbooks).** Set up each kind of meeting with a prompt, your PDFs, Quick Actions and a notes template. Browse the [free Playbook library](https://github.com/getobserver/playbooks).
+- **[Playbooks](https://getobserver.app/help/playbooks).** Set up each kind of meeting with a prompt, your PDFs, Quick Actions and a notes template. Seven come built in; more are in our free, optional [Playbook library](https://github.com/getobserver/playbooks).
 - **[Any meeting app](https://getobserver.app/help/supported-meeting-apps).** Zoom, Google Meet, Microsoft Teams, Slack, Webex, Discord and browser-based calls.
 
 <a href="https://getobserver.app/how-it-works"><img src="https://raw.githubusercontent.com/getobserver/.github/main/profile/assets/inside-the-app.png" alt="Inside Observer: a live answer in the meeting window, notes after a sales call, and the Sales Playbook" width="100%"></a>
